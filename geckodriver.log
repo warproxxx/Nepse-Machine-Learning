@@ -1,2 +1,14 @@
 1525668099530	geckodriver	INFO	geckodriver 0.20.1
 1525668099540	geckodriver	INFO	Listening on 127.0.0.1:6413
+1525670632108	geckodriver	INFO	geckodriver 0.20.1
+1525670632118	geckodriver	INFO	Listening on 127.0.0.1:59047
+1525670635189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BITTSE~1\\AppData\\Local\\Temp\\rust_mozprofile.pUYG0i0hgq4H"
+1525670678948	geckodriver	INFO	geckodriver 0.20.1
+1525670678956	geckodriver	INFO	Listening on 127.0.0.1:59086
+1525670681988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BITTSE~1\\AppData\\Local\\Temp\\rust_mozprofile.XSANnN6xNiDQ"
+1525670682612	Marionette	INFO	Enabled via --marionette
+1525670684746	Marionette	INFO	Listening on port 59094
+1525670685128	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\BITT Server\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-24700594-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-24700594-1, line 69: unreachable code after return statement
